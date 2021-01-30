@@ -4,13 +4,16 @@ import FunctionClick from './components/FunctionClick'
 import ClassClick from './components/ClassClick'
 import EventBind from './components/EventBind'
 import ParentComponent from './components/ParentComponent'
+import ConditioningRenderingComponent from './components/ConditioningRenderingComponent'
+
 function App() {
   return (
     <div className="App">
-        <FunctionClick/>
+        {/* <FunctionClick/>
         <ClassClick/>
         <EventBind/>
-        <ParentComponent/>
+        <ParentComponent/> */}
+        <ConditioningRenderingComponent/>
     </div>
   );
 }
