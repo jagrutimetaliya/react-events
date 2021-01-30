@@ -13,3 +13,5 @@
 2. Element varialbles 
 3. Ternary conditional operator
 4. Short circuit Operator
+
+# 17 - List Rendering
