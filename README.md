@@ -28,3 +28,10 @@ When to use index as a key
 1. The items in to your list do not have a unique id.
 2. The list is a static list and will not change 
 3. The list will never be reordered or filtered. 
+# 20 - Styling and CSS Basics
+
+options for react styling 
+1. CSS stylesheets 
+2. Inline styling 
+3. CSS modules 
+4. CSS in JS Libraries (Styled Components)
